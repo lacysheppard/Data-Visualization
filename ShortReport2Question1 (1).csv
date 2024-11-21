@@ -1,0 +1,169 @@
+School,rank,salary type,salary
+Amherst,all_fac_2020,real salaries,115573.00
+Amherst,full_2020,real salaries,155833.00
+Amherst,assoc_2020,real salaries,110986.00
+Amherst,assist_2020,real salaries,93329.00
+Amherst,all_fac_2020,cola-adjusted salaries,125628.26
+Amherst,full_2020,cola-adjusted salaries,142275.14
+Amherst,assoc_2020,cola-adjusted salaries,101330.48
+Amherst,assist_2020,cola-adjusted salaries,85859.19
+Bates,all_fac_2020,real salaries,101539.00
+Bates,full_2020,real salaries,134487.00
+Bates,assoc_2020,real salaries,105217.00
+Bates,assist_2020,real salaries,85862.00
+Bates,all_fac_2020,cola-adjusted salaries,115652.45
+Bates,full_2020,cola-adjusted salaries,153180.84
+Bates,assoc_2020,cola-adjusted salaries,119842.08
+Bates,assist_2020,cola-adjusted salaries,85861.90
+Bowdoin,all_fac_2020,real salaries,114601.00
+Bowdoin,full_2020,real salaries,146857.00
+Bowdoin,assoc_2020,real salaries,113680.00
+Bowdoin,assist_2020,real salaries,91352.00
+Bowdoin,all_fac_2020,cola-adjusted salaries,107266.12
+Bowdoin,full_2020,cola-adjusted salaries,137458.10
+Bowdoin,assoc_2020,cola-adjusted salaries,106404.66
+Bowdoin,assist_2020,cola-adjusted salaries,85505.67
+Carleton,all_fac_2020,real salaries,117620.10
+Carleton,full_2020,real salaries,141305.40
+Carleton,assoc_2020,real salaries,107210.25
+Carleton,assist_2020,real salaries,88513.61
+Carleton,all_fac_2020,cola-adjusted salaries,114797.22
+Carleton,full_2020,cola-adjusted salaries,137914.07
+Carleton,assoc_2020,cola-adjusted salaries,104637.20
+Carleton,assist_2020,cola-adjusted salaries,86389.28
+Claremont McKenna,all_fac_2020,real salaries,138183.20
+Claremont McKenna,full_2020,real salaries,176097.86
+Claremont McKenna,assoc_2020,real salaries,128041.61
+Claremont McKenna,assist_2020,real salaries,108669.75
+Claremont McKenna,all_fac_2020,cola-adjusted salaries,47396.84
+Claremont McKenna,full_2020,cola-adjusted salaries,60401.57
+Claremont McKenna,assoc_2020,cola-adjusted salaries,43918.27
+Claremont McKenna,assist_2020,cola-adjusted salaries,37273.72
+Colby,all_fac_2020,real salaries,111341.34
+Colby,full_2020,real salaries,145970.84
+Colby,assoc_2020,real salaries,105841.43
+Colby,assist_2020,real salaries,88083.89
+Colby,all_fac_2020,cola-adjusted salaries,135057.05
+Colby,full_2020,cola-adjusted salaries,177062.63
+Colby,assoc_2020,cola-adjusted salaries,128385.65
+Colby,assist_2020,cola-adjusted salaries,106845.76
+Colgate,all_fac_2020,real salaries,109417.39
+Colgate,full_2020,real salaries,151653.61
+Colgate,assoc_2020,real salaries,108479.27
+Colgate,assist_2020,real salaries,92464.38
+Colgate,all_fac_2020,cola-adjusted salaries,126267.67
+Colgate,full_2020,cola-adjusted salaries,175008.27
+Colgate,assoc_2020,cola-adjusted salaries,125185.08
+Colgate,assist_2020,cola-adjusted salaries,106703.89
+Davidson,all_fac_2020,real salaries,102411.45
+Davidson,full_2020,real salaries,134729.29
+Davidson,assoc_2020,real salaries,98242.92
+Davidson,assist_2020,real salaries,79876.90
+Davidson,all_fac_2020,cola-adjusted salaries,85206.33
+Davidson,full_2020,cola-adjusted salaries,112094.77
+Davidson,assoc_2020,cola-adjusted salaries,81738.11
+Davidson,assist_2020,cola-adjusted salaries,66457.58
+Furman,all_fac_2020,real salaries,87946.70
+Furman,full_2020,real salaries,102722.95
+Furman,assoc_2020,real salaries,82983.13
+Furman,assist_2020,real salaries,70363.92
+Furman,all_fac_2020,cola-adjusted salaries,97884.68
+Furman,full_2020,cola-adjusted salaries,114330.64
+Furman,assoc_2020,cola-adjusted salaries,92360.22
+Furman,assist_2020,cola-adjusted salaries,78315.04
+Grinnell,all_fac_2020,real salaries,109613.09
+Grinnell,full_2020,real salaries,139557.74
+Grinnell,assoc_2020,real salaries,105907.67
+Grinnell,assist_2020,real salaries,87727.22
+Grinnell,all_fac_2020,cola-adjusted salaries,132412.61
+Grinnell,full_2020,cola-adjusted salaries,168585.75
+Grinnell,assoc_2020,cola-adjusted salaries,127936.47
+Grinnell,assist_2020,cola-adjusted salaries,105974.48
+Hamilton,all_fac_2020,real salaries,107611.34
+Hamilton,full_2020,real salaries,142149.28
+Hamilton,assoc_2020,real salaries,108150.00
+Hamilton,assist_2020,real salaries,88382.78
+Hamilton,all_fac_2020,cola-adjusted salaries,133976.12
+Hamilton,full_2020,cola-adjusted salaries,176975.85
+Hamilton,assoc_2020,cola-adjusted salaries,134646.75
+Hamilton,assist_2020,cola-adjusted salaries,110036.56
+Haverford,all_fac_2020,real salaries,100982.76
+Haverford,full_2020,real salaries,131175.59
+Haverford,assoc_2020,real salaries,101031.32
+Haverford,assist_2020,real salaries,84959.35
+Haverford,all_fac_2020,cola-adjusted salaries,29890.90
+Haverford,full_2020,cola-adjusted salaries,38827.97
+Haverford,assoc_2020,cola-adjusted salaries,29905.27
+Haverford,assist_2020,cola-adjusted salaries,25147.97
+Macalester,all_fac_2020,real salaries,98937.34
+Macalester,full_2020,real salaries,126583.01
+Macalester,assoc_2020,real salaries,95132.95
+Macalester,assist_2020,real salaries,79774.80
+Macalester,all_fac_2020,cola-adjusted salaries,100322.46
+Macalester,full_2020,cola-adjusted salaries,128355.17
+Macalester,assoc_2020,cola-adjusted salaries,96464.81
+Macalester,assist_2020,cola-adjusted salaries,80891.65
+Middlebury,all_fac_2020,real salaries,112177.21
+Middlebury,full_2020,real salaries,140387.28
+Middlebury,assoc_2020,real salaries,104368.11
+Middlebury,assist_2020,real salaries,90234.19
+Middlebury,all_fac_2020,cola-adjusted salaries,115318.17
+Middlebury,full_2020,cola-adjusted salaries,144318.12
+Middlebury,assoc_2020,cola-adjusted salaries,107290.42
+Middlebury,assist_2020,cola-adjusted salaries,92760.75
+Oberlin,all_fac_2020,real salaries,97482.62
+Oberlin,full_2020,real salaries,122742.26
+Oberlin,assoc_2020,real salaries,94994.30
+Oberlin,assist_2020,real salaries,72109.46
+Oberlin,all_fac_2020,cola-adjusted salaries,119806.14
+Oberlin,full_2020,cola-adjusted salaries,150850.24
+Oberlin,assoc_2020,cola-adjusted salaries,116747.99
+Oberlin,assist_2020,cola-adjusted salaries,88622.53
+Pomona,all_fac_2020,real salaries,126433.41
+Pomona,full_2020,real salaries,160490.68
+Pomona,assoc_2020,real salaries,120016.47
+Pomona,assist_2020,real salaries,98629.45
+Pomona,all_fac_2020,cola-adjusted salaries,43366.66
+Pomona,full_2020,cola-adjusted salaries,55048.30
+Pomona,assoc_2020,cola-adjusted salaries,41165.65
+Pomona,assist_2020,cola-adjusted salaries,33829.90
+Swarthmore,all_fac_2020,real salaries,123618.93
+Swarthmore,full_2020,real salaries,156328.64
+Swarthmore,assoc_2020,real salaries,111489.46
+Swarthmore,assist_2020,real salaries,87689.87
+Swarthmore,all_fac_2020,cola-adjusted salaries,108290.18
+Swarthmore,full_2020,cola-adjusted salaries,136943.89
+Swarthmore,assoc_2020,cola-adjusted salaries,97664.77
+Swarthmore,assist_2020,cola-adjusted salaries,76816.33
+Vassar,all_fac_2020,real salaries,111749.42
+Vassar,full_2020,real salaries,142788.30
+Vassar,assoc_2020,real salaries,111493.42
+Vassar,assist_2020,real salaries,89257.63
+Vassar,all_fac_2020,cola-adjusted salaries,108955.68
+Vassar,full_2020,cola-adjusted salaries,139218.59
+Vassar,assoc_2020,cola-adjusted salaries,108706.08
+Vassar,assist_2020,cola-adjusted salaries,87026.19
+Washington and Lee,all_fac_2020,real salaries,118671.58
+Washington and Lee,full_2020,real salaries,143853.24
+Washington and Lee,assoc_2020,real salaries,115712.37
+Washington and Lee,assist_2020,real salaries,95154.32
+Washington and Lee,all_fac_2020,cola-adjusted salaries,135641.62
+Washington and Lee,full_2020,cola-adjusted salaries,164424.25
+Washington and Lee,assoc_2020,cola-adjusted salaries,132259.24
+Washington and Lee,assist_2020,cola-adjusted salaries,108761.39
+Wesleyan,all_fac_2020,real salaries,111713.59
+Wesleyan,full_2020,real salaries,158454.83
+Wesleyan,assoc_2020,real salaries,111007.56
+Wesleyan,assist_2020,real salaries,91207.26
+Wesleyan,all_fac_2020,cola-adjusted salaries,108809.04
+Wesleyan,full_2020,cola-adjusted salaries,154335.00
+Wesleyan,assoc_2020,cola-adjusted salaries,108121.36
+Wesleyan,assist_2020,cola-adjusted salaries,88835.87
+Williams,all_fac_2020,real salaries,122390.65
+Williams,full_2020,real salaries,149902.98
+Williams,assoc_2020,real salaries,106039.74
+Williams,assist_2020,real salaries,93837.29
+Williams,all_fac_2020,cola-adjusted salaries,121289.13
+Williams,full_2020,cola-adjusted salaries,148553.85
+Williams,assoc_2020,cola-adjusted salaries,105085.38
+Williams,assist_2020,cola-adjusted salaries,92992.75
