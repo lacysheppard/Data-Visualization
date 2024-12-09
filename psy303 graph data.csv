@@ -1,0 +1,21 @@
+Rat,Group,Direction,Number of Rotations
+1,pre-op,cw,0.142857142857143
+1,pre-op,cc,4.85714285714286
+1,post-op,cw,0
+1,post-op,cc,200.428571428571
+2,pre-op,cw,0.428571428571429
+2,pre-op,cc,0.285714285714286
+2,post-op,cw,0.285714285714286
+2,post-op,cc,22.4285714285714
+3,pre-op,cw,1.14285714285714
+3,pre-op,cc,0.857142857142857
+3,post-op,cw,0
+3,post-op,cc,247
+4,pre-op,cw,0.571428571428571
+4,pre-op,cc,2.85714285714286
+4,post-op,cw,0.714285714285714
+4,post-op,cc,81.4285714285714
+5,pre-op,cw,1.57142857142857
+5,pre-op,cc,3.57142857142857
+5,post-op,cw,0
+5,post-op,cc,167.428571428571
