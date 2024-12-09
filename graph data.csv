@@ -1,21 +1,21 @@
 ﻿Rat,Group,Direction,Number of Rotations
-1,pre,cw,0.142857143
-1,pre,cc,4.857142857
-1,post,cw,0
-1,post,cc,200.4285714
-2,pre,cw,0.428571429
-2,pre,cc,0.285714286
-2,post,cw,0.285714286
-2,post,cc,22.42857143
-3,pre,cw,1.142857143
-3,pre,cc,0.857142857
-3,post,cw,0
-3,post,cc,247
-4,pre,cw,0.571428571
-4,pre,cc,2.857142857
-4,post,cw,0.714285714
-4,post,cc,81.42857143
-5,pre,cw,1.571428571
-5,pre,cc,3.571428571
-5,post,cw,0
-5,post,cc,167.4285714
+1,A pre-op,ipsiversive,0.142857143
+1,A pre-op,contraversive,4.857142857
+1,B post-op,ipsiversive,0
+1,B post-op,contraversive,200.4285714
+2,A pre-op,ipsiversive,0.428571429
+2,A pre-op,contraversive,0.285714286
+2,B post-op,ipsiversive,0.285714286
+2,B post-op,contraversive,22.42857143
+3,A pre-op,ipsiversive,1.142857143
+3,A pre-op,contraversive,0.857142857
+3,B post-op,ipsiversive,0
+3,B post-op,contraversive,247
+4,A pre-op,ipsiversive,0.571428571
+4,A pre-op,contraversive,2.857142857
+4,B post-op,ipsiversive,0.714285714
+4,B post-op,contraversive,81.42857143
+5,A pre-op,ipsiversive,1.571428571
+5,A pre-op,contraversive,3.571428571
+5,B post-op,ipsiversive,0
+5,B post-op,contraversive,167.4285714
